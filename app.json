@@ -13,9 +13,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.misscoding.facebookLogin"
     },
     "android": {
+      "package": "com.misscoding.facebookLogin",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -23,6 +25,31 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "29cebde1-fe02-447f-8dde-7c43f1886ac8"
+      }
+    },
+   "plugins": [
+  [
+    
+      "react-native-fbsdk-next",
+      {
+        "appID": "533618776122926",
+        "clientToken": "ee05320a386e5bc9ebc1b680f027f431",
+        "displayName": "Login facebook",
+        "scheme": "fb533618776122926",
+        "advertiserIDcollectionEnabled": true,
+        "autoLogAppEventsEnabled": false,
+        "isAutoInitEnabled": true,
+        "IosUserTrackingPermission": "This identifier will be used to deliver personalized ads to you"
+
+      }
+  
+  ],
+  "expo-tracking-transparency"
+]
+
   }
 }
