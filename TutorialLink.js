@@ -2,5 +2,5 @@
 "firebase firestore link"="https://console.firebase.google.com/project/project1x-projetId/firestore/databases/-default-/data/id"
 "facebook app link"="https://developers.facebook.com/apps/id/settings/basic/"
 "base64 converter link" = "https://base64.guru/converter/encode/hex"
-"build expo app link"="https://expo.dev/accounts/rezgui.imen/projects/tutorialApp/builds/id"
+"build expo app link"="https://expo.dev/accounts/full.name/projects/tutorialApp/builds/id"
 "commande to run app"="npm start --dev-client"
