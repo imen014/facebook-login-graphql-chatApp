@@ -1,5 +1,5 @@
 "facebook tutorial link"="https://www.youtube.com/watch?v=VADy1X8NHeo"
-"firebase firestore link"="https://console.firebase.google.com/project/project1-b3594/firestore/databases/-default-/data/~2Fchats~2F7asGpjmbZiUpTozfrQVU"
+"firebase firestore link"="https://console.firebase.google.com/project/project1-b3594/firestore/databases/-default-/data/id"
 "facebook app link"="https://developers.facebook.com/apps/id/settings/basic/"
 "base64 converter link" = "https://base64.guru/converter/encode/hex"
 "build expo app link"="https://expo.dev/accounts/rezgui.imen/projects/tutorialApp/builds/id"
