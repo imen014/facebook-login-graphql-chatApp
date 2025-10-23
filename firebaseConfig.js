@@ -5,13 +5,13 @@ import { getFirestore } from 'firebase/firestore';
 
 // Configuration Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyBMritG-9o0bxZawR8OqUUAf-nLR2JeyWg",
-  authDomain: "project1-b3594.firebaseapp.com",
-  projectId: "project1-b3594",
+  apiKey: YOUR_API_KEY,
+  authDomain: "project1x-b3594.firebaseapp.com",
+  projectId: "project1x-b3594",
   storageBucket: "project1-b3594.firebasestorage.app",
-  messagingSenderId: "555518520691",
-  appId: "1:555518520691:web:36e765b0c5d17aa2ef6906",
-  measurementId: "G-YEQWD6QJFQ"
+  messagingSenderId: YOUR_MESSAGING_SENDER_ID,
+  appId: YOUR_API_ID,
+  measurementId: YOUR_MEASURE_ID
 };
 
 // Initialisation de Firebase
