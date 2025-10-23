@@ -14,7 +14,7 @@ const Mainent = () => {
     const fetchUserData = async () => {
       try {
         // Remplacez "userID" par l'ID de l'utilisateur, vous pouvez l'obtenir via le login
-        const userID = "1087208809424097"; // Utiliser un ID réel ici, exemple de l'ID utilisateur
+        const userID = "userID"; // Utiliser un ID réel ici, exemple de l'ID utilisateur
         const userDocRef = doc(firestore, "users", userID);
         const userDoc = await getDoc(userDocRef);
 
